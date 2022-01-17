@@ -12,4 +12,4 @@ Inside the Day folder you may find:
 - `main.py` - this is the Python script with the solution on it
 - `data.txt` - this is the file with the input text given by the website. If the input text is short (e.g. 2015/Day 4) there will be no need for this file
 - `text.txt` - this is the file with inputs where I know what the result should be when inputted through the right algorithm. I use this to check if my code is functioning correctly before submitting to the website. If there is no `data.txt` file or if the problem was too easy, then this file is probably not going to exist. 
-- Other files that I created just for fun (e.g. coordinates.json in 2015/Day 3)
+- Other files that I created just for fun (e.g. `coordinates.json` in 2015/Day 3)
